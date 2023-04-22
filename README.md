@@ -29,6 +29,7 @@
         <li>Spring Boot</li>
         <li>Hibernate/ JPA</li>
         <li>MySQL</li>
+        <li>JSP</li>
       </ul>
     </div>
   </body>
